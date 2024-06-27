@@ -1,0 +1,70 @@
+body{
+    background-color: greenyellow;
+    color: pink;
+    font-size: 50px;
+}
+
+h2{
+    background-color: plum;
+    color: black;
+    font-size: 35px;
+    text-align: center;
+}
+
+.plasagna{
+    color: red;
+    font-size: 30px;
+    text-align: center;
+}
+
+.pmacandcheese{
+    background-color: black;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
+
+.pbananapudding{
+    color: blue;
+    font-size: 30px;
+    text-align: center;
+}
+
+ul{
+    color: black;
+}
+
+ol{
+    color: white;
+    font-size: 28px;
+    background-color: black;
+    margin-left: 10px;
+    margin-right: 20px;
+}
+
+
+/* LINKS */
+
+a:link{
+    color: blue ;
+    font-size: 35px;
+    font-family: "Lucida Console", "Courier New", "monospace";
+}
+a:visted{
+    color: brown;
+    text-decoration: none;
+    font-family: "Lucida Console", "Courier New", "monospace";
+
+}
+a:hover{
+    color: aqua;
+    font-size: 50px;
+    font-family: cursive;
+    font-family: "Lucida Console", "Courier New", "monospace";
+
+}
+a:active{
+    color: orangered;
+    font-family: "Lucida Console", "Courier New", "monospace";
+
+}
